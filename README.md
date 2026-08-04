@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=SRV-KILLER09&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/SRV-KILLER09?style=for-the-badge&labelColor=0d1117&color=00E5FF&label=FOLLOWERS" />
-  <img src="https://img.shields.io/github/stars/SRV-KILLER09?style=for-the-badge&labelColor=0d1117&color=FF4ECD&label=STARS" />
+  <img src="https://img.shields.io/github/followers/simplyvardaan?style=for-the-badge&labelColor=0d1117&color=00E5FF&label=FOLLOWERS" /> 
+  <img src="https://img.shields.io/github/stars/simplyvardaan?style=for-the-badge&labelColor=0d1117&color=FF4ECD&label=STARS" />
 </p>
 
 </div>
