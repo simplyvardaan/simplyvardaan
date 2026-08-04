@@ -14,7 +14,7 @@
     <img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
   <img src="https://komarev.com/ghpvc/?username=SRV-KILLER09&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2&labelColor=0d1117" />
-  <img src="https://img.shields.io/github/followers/simplyvardaan?style=for-the-badge&labelColor=0d1117&color=00E5FF&label=FOLLOWERS" /> 
+  <img src="https://img.shields.io/github/followers/simplyvardaan?style=for-the-badge&labelColor=0d1117&color=00E5FF&label=FOLLOWERS" />
   <img src="https://img.shields.io/github/stars/simplyvardaan?style=for-the-badge&labelColor=0d1117&color=FF4ECD&label=STARS" />
 </p>
 
@@ -126,13 +126,13 @@ Portfolio: https://www.vardaansaxena.tech
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=SRV-KILLER09&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=simplyvardaan&theme=tokyonight&hide_border=true" />
 </p>
 
 ---
 
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=SRV-KILLER09&theme=tokyo-night&hide_border=true" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simplyvardaan&theme=tokyo-night&hide_border=true" />
 </p>
 
 ---
@@ -143,7 +143,7 @@ Portfolio: https://www.vardaansaxena.tech
    <a href="https://www.vardaansaxena.tech">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=vercel&logoColor=white">
   </a>
-  <a href="https://github.com/SRV-KILLER09">
+  <a href="https://github.com/simplyvardaan">
     <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=for-the-badge&logo=github">
   </a>
   <a href="https://www.linkedin.com/in/vardaan-saxena-b4b4a4365/">
