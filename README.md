@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=Vardaan%20Saxena&fontSize=52&fontColor=FFFFFF&stroke=FF0000&strokeWidth=5&fontAlignY=55" />
+<img src="https://capsule-render.vercel.app/api?type=transparent&height=100&section=header&text=VardaanSaxena_&fontSize=52&fontColor=FFFFFF&stroke=FF0000&strokeWidth=5&fontAlignY=55" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=16&duration=2800&pause=1000&color=8B95A5&center=true&vCenter=true&width=650&lines=Full+Stack+Dev+%7C+AI+Explorer+%7C+Hackathon+Winner+%7C+GSSoC'26" />
 
