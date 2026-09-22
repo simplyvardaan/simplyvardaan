@@ -28,7 +28,8 @@
 Name: Vardaan Saxena
 Location: India 🇮🇳
 Role: Full Stack Dev (MERN Stack) | Hackathon(s) winner & Finalist | Open Source Dev
-Currently: Summer Intern'26 @GAIL (India) Ltd.
+Upcoming: Wintern Intern'26 @CSIR Labs
+Former: Summer Intern'26 @GAIL (India) Ltd.
 Portfolio: https://www.vardaansaxena.tech
 ```
 
@@ -161,7 +162,8 @@ Portfolio: https://www.vardaansaxena.tech
 <td bgcolor="white" align="center">
 <br>
 <b>"I always build something that I keep wishing someone would make for me."</b>
-<br><br>
+  
+  <br><br>
 </td>
 </tr>
 </table>
