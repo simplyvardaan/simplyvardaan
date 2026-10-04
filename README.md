@@ -21,19 +21,6 @@
 
 ---
 
-## About Me
-
-```yaml
-Name: Vardaan Saxena
-Location: India
-Role: Full Stack Dev (MERN Stack) | Hackathon(s) winner & Finalist | Open Source Dev | SDE
-Upcoming: Wintern Intern'26 @CSIR Labs
-Former: Summer Intern'26 @GAIL (India) Ltd.
-Portfolio: https://www.vardaansaxena.tech
-```
-
----
-
 ## Tech Stack
 
 **Languages**
@@ -124,14 +111,24 @@ Portfolio: https://www.vardaansaxena.tech
 
 ---
 
+## Contribution Snake
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/simplyvardaan/simplyvardaan/output/github-contribution-grid-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/simplyvardaan/simplyvardaan/output/github-contribution-grid-snake.svg" />
+  <img alt="GitHub contribution grid snake animation" src="https://raw.githubusercontent.com/simplyvardaan/simplyvardaan/output/github-contribution-grid-snake-dark.svg" />
+</picture>
+</div>
+
+---
+
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://streak-stats.demolab.com/?user=simplyvardaan&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=simplyvardaan&theme=tokyo-night&hide_border=true" alt="Activity graph" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=simplyvardaan&show_icons=true&theme=radical" height="170" alt="GitHub stats" />
+  <img src="https://streak-stats.demolab.com/?user=simplyvardaan&theme=radical&hide_border=true" height="170" alt="GitHub streak" />
+  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=simplyvardaan&layout=compact&theme=radical" height="170" alt="Top languages" />
 </p>
 
 ---
