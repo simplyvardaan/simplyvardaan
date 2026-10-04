@@ -21,19 +21,6 @@
 
 ---
 
-## About Me
-
-```yaml
-Name: Vardaan Saxena
-Location: India
-Role: Full Stack Dev (MERN Stack) | Hackathon(s) winner & Finalist | Open Source Dev | SDE
-Upcoming: Wintern Intern'26 @CSIR Labs
-Former: Summer Intern'26 @GAIL (India) Ltd.
-Portfolio: https://www.vardaansaxena.tech
-```
-
----
-
 ## Tech Stack
 
 **Languages**
