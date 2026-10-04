@@ -12,12 +12,25 @@
   <a href="https://www.vardaansaxena.tech">
     <img src="https://img.shields.io/badge/Portfolio-Visit-00E5FF?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" />
   </a>
-  <img src="https://komarev.com/ghpvc/?username=SRV-KILLER09&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2&labelColor=0d1117" alt="Profile views" />
+  <img src="https://komarev.com/ghpvc/?username=SRV-KILLER09&style=for-the-badge&label=PROFILE+VIEWS&color=8A2BE2&labelColor=0d1117&v=2" alt="Profile views" />
   <img src="https://img.shields.io/github/followers/simplyvardaan?style=for-the-badge&labelColor=0d1117&color=00E5FF&label=FOLLOWERS" alt="Followers" />
   <img src="https://img.shields.io/github/stars/simplyvardaan?style=for-the-badge&labelColor=0d1117&color=FF4ECD&label=STARS" alt="Stars" />
 </p>
 
 </div>
+
+---
+
+## About Me
+
+```yaml
+Name: Vardaan Saxena
+Location: India
+Role: Full Stack Dev (MERN Stack) | Hackathon(s) winner & Finalist | Open Source Dev | SDE
+Upcoming: Wintern Intern'26 @CSIR Labs
+Former: Summer Intern'26 @GAIL (India) Ltd.
+Portfolio: https://www.vardaansaxena.tech
+```
 
 ---
 
@@ -126,9 +139,8 @@
 ## GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-fast.vercel.app/api?username=simplyvardaan&show_icons=true&theme=radical" height="170" alt="GitHub stats" />
+  <img src="https://github-readme-stats-fast.vercel.app/api?username=simplyvardaan&show_icons=true&theme=radical&include_all_commits=true&count_private=true" height="170" alt="GitHub stats" />
   <img src="https://streak-stats.demolab.com/?user=simplyvardaan&theme=radical&hide_border=true" height="170" alt="GitHub streak" />
-  <img src="https://github-readme-stats-fast.vercel.app/api/top-langs/?username=simplyvardaan&layout=compact&theme=radical" height="170" alt="Top languages" />
 </p>
 
 ---
