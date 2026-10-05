@@ -156,5 +156,8 @@
 </p>
 
 <p align="center">
-  <sub>Made with ❤️ by <b>Vardaan</b> | ©2026</sub>
+  <sub>
+   <b> Made with ❤️ by <a href="https://www.vardaansaxena.tech">Vardaan Saxena</b></a>
+  </sub>
 </p>
+
