@@ -191,6 +191,6 @@
 
 <p align="center">
   <sub>
-   <b> Made with ❤️ by <a href="https://www.vardaansaxena.tech">Vardaan Saxena_</b></a>
+   <b> Made with ❤️ by <a href="https://www.vardaansaxena.tech">Vardaan Saxena</b></a>
   </sub>
 </p>
